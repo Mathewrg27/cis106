@@ -31,3 +31,9 @@ We end up going into our regular vm machine and making sure ssh is set up and re
 
 ![image7](Screenshot%20(7).png)
 Lastly we enabled virtual host so that way we can set up our sample site. Every time we search up our ip address it will display the sample site. 
+
+![image8](Screenshot%20(8).png)
+Here I am checking to make sure that Apache is running smoothly and the website is up and running.
+
+![image9](Screenshot%20(9).png)
+As you can see the website is fully functional and displays whats to come. 
